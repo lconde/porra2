@@ -1,36 +1,72 @@
-<?php
+<html>
+ <head>
+ <?php
 	require "JsonDB.class.php";
+        $db = new JsonTable("./data/datos.json");
 
-	$db = new JsonTable("./data/datos.json"); //parameter => your json file
+	$result = $db -> selectAll();
 
-//	Update
-//	$db -> update ( "ID", 1, array("ID" => 1, "Name" => "Fani Zwidawurzn", "Age" => 66));
-
-//	Delete de un registro
-//	$db -> delete( "ID", 2 );
-
-//	Inserta nueva apuesta
-//	$db -> insert ( array("ID" => 4, "Nombre" => "Luisete", "RMA" => 5, "FCB" => 2));
-
-//	Select *
-//	$result = $db -> selectAll();
-
-//	Select where nombre
-	$result = $db->select("Nombre","Luisete");
-
-//	Recorre el array resultante de la query
+	$cont = 0;
 	foreach($result as $apuesta){
+		$cont++;
+        }
 
-		$id = $apuesta['ID'];
-		$nombre = $apuesta['Nombre'];
-		$rma = $apuesta['RMA'];
-		$fcb = $apuesta['FCB'];
+  //Creamos los parametros iniciales
+  //estos podrían proceder de un formulario, sql, etc...
 
-		echo "$id $nombre $rma $fcb<br>";		
+  $filas = $cont+1;
+  $columnas = 3;
+  $texto = "Nombre";
+  $grey = true;
+
+ ?>
+ </head>
+
+ <body>
+
+<!-- Creamos el inicio de la tabla manualmente -->
+
+<table border="1">
+
+<?php
+
+ //Iniciamos el bucle de las filas
+ for($t=0;$t<$filas;$t++){
+ 	echo "<tr>";
+	if($t == 0){
+		echo "<td style=padding:3px;background-color:#F5D0A9;>"."Nombre"."</td>";
+		echo "<td style=padding:3px;background-color:#F5D0A9;>"."Real Madrid C.F."."</td>";
+		echo "<td style=padding:3px;background-color:#F5D0A9;>"."F.C. Barcelona"."</td>";
+	}else{
+  	//Iniciamos el bucle de las columnas
+ 	for($y=0;$y<$columnas;$y++){
+		// Columna 0 = Nombre
+		if($y == 0){
+			$nombre = $result[$t-1]['Nombre'];			
+			echo "<td style=padding:3px;>".$nombre."</td>";
+		}
+		// Columna 1 = RMA
+		if($y == 1){
+                        $rma = $result[$t-1]['RMA'];
+                        echo "<td style=padding:3px;><center>".$rma."</td>";
+                }
+		// Columna 2 = FCB
+                if($y == 2){
+                        $fcb = $result[$t-1]['FCB'];
+                        echo "<td style=padding:3px;><center>".$fcb."</td>";
+                }
+		
+	 }
 	}
+	 //Cerramos columna
+	 echo "</tr>";
+  }
 
-//	echo "<pre>";
-//	print_r($result);
-//	echo "</pre>";
+ ?>
 
-?>
+ <!-- Cerramos tabla -->
+ </table>
+
+ </body>
+ </html>
+
