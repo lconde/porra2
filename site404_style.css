@@ -136,6 +136,16 @@ em { color: #d1e050; }
     font-size: 12px;
 }
 
+#contact_form form .input_field_goles { 
+	width: 20px; 
+	padding: 5px; 
+	background: #fff; 
+	border: 1px solid #dfdfdf; 
+	font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
 #contact_form form label { 
 	display: block; 
 	width: 100px; 
