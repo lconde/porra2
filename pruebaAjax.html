@@ -1,0 +1,68 @@
+<html>
+
+<head>
+
+<title>Ejemplo sencillo de AJAX</title>
+
+<script type="text/javascript" src="/js/jquery-1.2.6.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery.js"></script> -->
+
+<script>
+function realizaApuesta(nombre, email, RMA, FCB){
+        var parametros = {
+                "nombre" : nombre,
+                "email" : email,
+                "RMA" : RMA,
+                "FCB" : FCB
+        };
+        $.ajax({
+                data:  parametros,
+                url:   'nuevaApuesta.php',
+                type:  'post',
+                beforeSend: function () {
+                        $("#resultado").html("Procesando, espere por favor...");
+                },
+                success:  function (response) {
+                        $("#resultado").html(response);
+                }
+        });
+}
+</script>
+
+</head>
+
+<body>
+
+               <!-- <form method="post" name="contact" action="#contact"> -->
+
+                                <label for="nombre">Nombre:</label> <input name="nombre" type="text" class="required input_field" id="nombre" maxlength="60" />
+                                <div class="cleaner_h10"></div>
+                                
+                                <label for="email">Email:</label> <input name="email" type="text" class="validate-email required input_field" id="email" maxlength="60" />
+                                <div class="cleaner_h10"></div>
+                                
+                                <label for="text">Apuesta:</label>
+                                <div class="cleaner_h10"></div>
+
+                                <label for="text">Real Madrid C.F.</label>
+                                <input name="RMA" type="number" class="required input_field_goles" id="RMA" maxlength="2" />
+                                <div class="cleaner_h10"></div>
+
+                                <label for="text">F.C. Barcelona</label>
+                                <input name="FCB" type="number" class="required input_field_goles" id="FCB" maxlength="2" />
+                                <div class="cleaner_h10"></div>
+                                
+                                <!-- <input type="submit" class="submit_btn float_r" name="submit" id="submit" value="Apostar" /> -->
+                                <input type="button" href="javascript:;" onclick="realizaApuesta($('#nombre').val(), $('#email').val(), $('#RMA').val(), $('#FCB').val());return false;" value="Apostar"/>
+                                    
+                                
+                <!-- </form> -->
+                <br>
+                Resultado: <span id="resultado">0</span>
+
+
+</body>
+
+</html>
+
+

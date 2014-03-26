@@ -1,26 +1,25 @@
-<html>
- <head>
- <?php
+<?php
 	require "JsonDB.class.php";
-        $db = new JsonTable("./data/datos.json");
+    $db = new JsonTable("./data/datos.json");
 
 	$result = $db -> selectAll();
 
-	$cont = 0;
-	foreach($result as $apuesta){
-		$cont++;
-        }
-
+	// Sacamos el numero de elementos del array resultante de la consulta
+	$cont = sizeof($result);
+	
   //Creamos los parametros iniciales
-  //estos podrían proceder de un formulario, sql, etc...
-
+  
   $filas = $cont+1;
   $columnas = 3;
-  $texto = "Nombre";
-  $grey = true;
-
+  
  ?>
- </head>
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Test PHP porra RENR</title>
+	</head>
 
  <body>
 
